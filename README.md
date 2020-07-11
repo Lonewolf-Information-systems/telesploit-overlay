@@ -1,4 +1,4 @@
-Skeleton Overlay
+telesploit-overlay
 ================
 
 This is a "skeleton" overlay -- an empty overlay to use as the starting point
